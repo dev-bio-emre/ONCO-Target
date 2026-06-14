@@ -10,6 +10,16 @@
 
 ---
 
+
+## Live Research Portal
+
+The ONCO-Target interactive dashboard is deployed and globally accessible. Researchers can visualize clinical survival curves, browse HTVS leaderboards, and interact with 3D molecular docking models in real-time.
+
+**[➤ Access the Live Portal](https://onco-target.streamlit.app/)**
+
+---
+
+
 ## Overview
 
 In clinical oncology, the gap between identifying a prognostic biomarker and validating a viable therapeutic inhibitor often spans **decades**. ONCO-Target was built to compress this timeline.
